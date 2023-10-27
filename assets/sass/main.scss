@@ -1,0 +1,12 @@
+@import "./plugins";
+@import "./base/variables";
+@import "./base/mixins";
+@import "./base/base";
+@import "./base/typography";
+
+//components
+@import "./components/header";
+@import "./components/footer";
+
+// pages
+@import "./pages/home";
